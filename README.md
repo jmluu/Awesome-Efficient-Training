@@ -5,7 +5,12 @@ A collection of research papers on efficient training of DNNs. If you find some 
   - [**Algorithm**](#algorithm)
     - [**Quantization**](#quantization)
     - [**Pruning**](#pruning)
+    - [**Others**](#others)
   - [**Hardware**](#hardware)
+    - [**ASIC**](#asic)
+    - [**FPGA**](#fpga)
+    - [**PIM**](#pim)
+    - [**SNN**](#snn)
 
 ## **Algorithm**
 
@@ -163,7 +168,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2017 | FPT**] An FPGA-based processor for training convolutional neural networks [[paper](http://ieeexplore.ieee.org/document/8280142/)]
 - <a name="todo"></a> [**2017 | FPT**] FPGA-based training of convolutional neural networks with a reduced precision floating-point library [[paper](http://ieeexplore.ieee.org/document/8280150/)]
 - <a name="todo"></a> [**2016 | ASAP**] F-CNN: An FPGA-based framework for training Convolutional Neural Networks [[paper](http://ieeexplore.ieee.org/document/7760779/)]
-- <a name="todo"></a> [** | **]  [[paper]()]
+
 
 
 ### **PIM**
@@ -171,7 +176,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2021 | TC**] PANTHER: A Programmable Architecture for Neural Network Training Harnessing Energy-efficient ReRAM [[paper](http://arxiv.org/abs/1912.11516)]
 - <a name="todo"></a> [**2019 | TC**] A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Datasets [[paper](https://ieeexplore.ieee.org/document/8502059/)]
 - <a name="todo"></a> [**2018 | TCAD**] DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks [[paper](https://ieeexplore.ieee.org/document/8418347/)]
-- <a name="todo"></a> [**2017 | HPCA**] PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning [[paper]()]
+- <a name="todo"></a> [**2017 | HPCA**] PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning [[paper](http://ieeexplore.ieee.org/document/7920854/)]
 
 ### **SNN**
 - <a name="todo"></a> [**2019 | JSSC**] A 65-nm Neuromorphic Image Classification Processor With Energy-Efficient Training Through Direct Spike-Only Feedback [[paper](https://ieeexplore.ieee.org/document/8867974/)]
