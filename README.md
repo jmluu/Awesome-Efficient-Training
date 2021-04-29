@@ -46,7 +46,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2019 | NIPS**] Dimension-Free Bounds for Low-Precision Training [[paper](https://papers.nips.cc/paper/2019/file/d4cd91e80f36f8f3103617ded9128560-Paper.pdf)]
 - <a name="todo"></a> [**2019 | arXiv**] Cheetah: Mixed Low-Precision Hardware & Software Co-Design Framework for DNNs on the Edge [[paper](https://arxiv.org/abs/1908.02386v1)]
 - <a name="todo"></a> [**2019 | arXiv**] Distributed Low Precision Training Without Mixed Precision [[paper](https://arxiv.org/abs/1911.07384)]
-- <a name="todo"></a> [**2019 | arXiv**] https://arxiv.org/abs/1905.12334 [[paper](https://arxiv.org/abs/1905.12334)]
+- <a name="todo"></a> [**2019 | arXiv**] Mixed Precision Training With 8-bit Floating Point [[paper](https://arxiv.org/abs/1905.12334)]
 - <a name="todo"></a> [**2019 | arXiv**] A Study of BFLOAT16 for Deep Learning Training [[paper](https://arxiv.org/abs/1905.12322)]
 - <a name="todo"></a> [**2018 | ACL**] Mixed-Precision Training for NLP and Speech Recognition with OpenSeq2Seq [[paper](https://arxiv.org/abs/1805.10387)]
 - <a name="todo"></a> [**2018 | ECCV**] Value-aware Quantization for Training and Inference of Neural Networks [[paper](https://arxiv.org/abs/1804.07802)]
