@@ -15,16 +15,19 @@ A collection of research papers on efficient training of DNNs. If you find some 
 ## **Algorithm**
 
 ### **Quantization**
-
 - <a name="todo"></a> [**2021 | AAAI**] Distribution Adaptive INT8 Quantization for Training CNNs [[paper](https://arxiv.org/abs/2102.04782)]
 - <a name="todo"></a> [**2021 | ICLR**] CPT: Efficient Deep Neural Network Training via Cyclic Precision [[paper](http://arxiv.org/abs/2101.09868)] [[code](https://github.com/RICE-EIC/CPT)]
 - <a name="todo"></a> [**2021 | tinyML**] TENT: Efficient Quantization of Neural Networks on the tiny Edge with Tapered FixEd PoiNT [[paper](http://arxiv.org/abs/2104.02233)] 
 - <a name="todo"></a> [**2021 | arXiv**] RCT: Resource Constrained Training for Edge AI [[paper](http://arxiv.org/abs/2103.14493)]
 - <a name="todo"></a> [**2021 | arXiv**] A Simple and Efficient Stochastic Rounding Method for Training Neural Networks in Low Precision [[paper](http://arxiv.org/abs/2103.13445)]
 - <a name="todo"></a> [**2021 | arXiv**] Enabling Binary Neural Network Training on the Edge [[paper](http://arxiv.org/abs/2102.04270)]
+- <a name="todo"></a> [**2021 | arXiv**] In-Hindsight Quantization Range Estimation for Quantized Training [[paper](http://arxiv.org/abs/2105.04246)]
+- <a name="todo"></a> [**2021 | arXiv**] Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization [[paper](http://arxiv.org/abs/2105.13890)]
+- <a name="todo"></a> [**2021 | arXiv**]Low-Precision Training in Logarithmic Number System using Multiplicative Weight Update [[paper](http://arxiv.org/abs/2106.13914)]
 - <a name="todo"></a> [**2020 | Neural Networks**] Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers [[paper](https://arxiv.org/abs/1909.02384))] [[code](https://github.com/yang-yk/wageubn)]
 - <a name="todo"></a> [**2020 | TC**] Evaluations on Deep Neural Networks Training Using Posit Number System [[paper](https://ieeexplore.ieee.org/document/9066876)]
 - <a name="todo"></a> [**2020 | CVPR**] Towards Unified INT8 Training for Convolutional Neural Network [[paper](https://arxiv.org/abs/1912.12607)]
+- <a name="todo"></a> [**2020 | CVPR**] Fixed-Point Back-Propagation Training [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Fixed-Point_Back-Propagation_Training_CVPR_2020_paper.pdf)]
 - <a name="todo"></a> [**2020 | ICLR**] Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks [[paper](https://arxiv.org/abs/2001.05674)]
 - <a name="todo"></a> [**2020 | ICML**] Multi-Precision Policy Enforced Training (MuPPET): A precision-switching strategy for quantised fixed-point training of CNNs [[paper](https://arxiv.org/abs/2006.09049)]
 - <a name="todo"></a> [**2020 | IJCAI**] Reducing Underflow in Mixed Precision Training by Gradient Scaling [[paper](https://www.ijcai.org/proceedings/2020/404)]
@@ -75,6 +78,8 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2021 | CVPR**] The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models [[paper](https://arxiv.org/abs/2012.06908)] [[code](-)]
 - <a name="todo"></a> [**2021 | ICS**] ClickTrain: Efficient and Accurate End-to-End Deep Learning Training via Fine-Grained Architecture-Preserving Pruning [[paper](https://arxiv.org/abs/2011.10170)] [[code](-)]
 - <a name="todo"></a> [**2021 | arXiv**] Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks [[paper](https://arxiv.org/abs/2102.08124)] [[code](https://github.com/papers-submission/structured_transposable_masks)]
+- <a name="todo"></a> [**2021 | arXiv**] Sparse Training via Boosting Pruning Plasticity with Neuroregeneration [[paper](http://arxiv.org/abs/2106.10404)]
+- <a name="todo"></a> [**2021 | arXiv**] FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity [[paper](http://arxiv.org/abs/2106.14568)]
 - <a name="todo"></a> [**2020 | TCAD**] Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning [[paper](https://arxiv.org/abs/2007.03213)] [[code](-)]
 - <a name="todo"></a> [**2020 | ECCV**] Accelerating CNN Training by Pruning Activation Gradients [[paper](https://arxiv.org/abs/1908.00173)]
 - <a name="todo"></a> [**2020 | ICLR**] Picking Winning Tickets Before Training by Preserving Gradient Flow [[paper](https://arxiv.org/abs/2002.07376)] [[code](https://github.com/alecwangcq/GraSP)]
@@ -111,8 +116,15 @@ A collection of research papers on efficient training of DNNs. If you find some 
 ## **Hardware**
 ### **ASIC**
 - <a name="todo"></a> [**2021 | JSSC**] HNPU: An Adaptive DNN Training Processor Utilizing Stochastic Dynamic Fixed-Point and Active Bit-Precision Searching [[paper](https://ieeexplore.ieee.org/document/9383824?arnumber=9383824)]
+- <a name="todo"></a> [**2021 | JSSC**] GANPU: An Energy-Efficient Multi-DNN Training Processor for GANs With Speculative Dual-Sparsity Exploitation [[paper](https://ieeexplore.ieee.org/document/9410650/)]
 - <a name="todo"></a> [**2021 | ISSCC**] A 7nm 4-Core AI Chip with 25.6TFLOPS Hybrid FP8 Training, 102.4TOPS INT4 Inference and Workload-Aware Throttling [[paper](https://ieeexplore.ieee.org/document/9365791)]
 - <a name="todo"></a> [**2021 | ISSCC**] A 40nm 4.81TFLOPS/W 8b Floating-Point Training Processor for Non-Sparse Neural Networks Using Shared Exponent Bias and 24-Way Fused Multiply-Add Tree [[paper](https://ieeexplore.ieee.org/document/9366031)]
+- <a name="todo"></a> [**2021 | ISCA**] RaPiD: AI Accelerator for Ultra-low Precision Training and Inference [[paper](https://ieeexplore.ieee.org/document/9366031)]
+- <a name="todo"></a> [**2021 | ISCA**] Cambricon-Q: A Hybrid Architecture for Efficient Training 
+- <a name="todo"></a> [**2021 | ISCA**] NASA: Accelerating Neural Network Design with a NAS Processor
+- <a name="todo"></a> [**2021 | ISCAS**] A 3.6 TOPS/W Hybrid FP-FXP Deep Learning Processor with Outlier Compensation for Image-to-image Application
+- <a name="todo"></a> [**2021 | VLSI**] A 28nm 276.55TFLOPS/W Sparse Deep-Neural-Network Training Processor with Implicit Redundancy Speculation and Batch Normalization Reformulation
+- <a name="todo"></a> [**2021 | COOL**] An Energy-Efficient Deep Neural Network Training Processor with Bit-Slice-Level Reconfigurability and Sparsity Exploitation 
 - <a name="todo"></a> [**2020 | IEEE Access**] Training Hardware for Binarized Convolutional Neural Network Based on CMOS Invertible Logic [[paper](https://ieeexplore.ieee.org/document/9217452)]
 - <a name="todo"></a> [**2020 | JSSC**] Evolver: A Deep Learning Processor With On-Device Quantization–Voltage–Frequency Tuning [[paper](https://ieeexplore.ieee.org/document/9209075)]
 - <a name="todo"></a> [**2020 | JSSC**] DF-LNPU: A Pipelined Direct Feedback Alignment-Based Deep Neural Network Learning Processor for Fast Online Learning [[paper](https://ieeexplore.ieee.org/document/9307218?arnumber=9307218)]
@@ -122,6 +134,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2020 | DAC**] SCA: A Secure CNN Accelerator for Both Training and Inference [[paper](https://dl.acm.org/doi/10.5555/3437539.3437670)]
 - <a name="todo"></a> [**2020 | DAC**] Prediction Confidence based Low Complexity Gradient Computation for Accelerating DNN Training [[paper](https://ieeexplore.ieee.org/document/9218650)]
 - <a name="todo"></a> [**2020 | DAC**] SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training [[paper](https://dl.acm.org/doi/abs/10.5555/3437539.3437644)]
+- <a name="todo"></a> [**2020 | DAC**] A Pragmatic Approach to On-device Incremental Learning System with Selective Weight Updates [[paper](https://ieeexplore.ieee.org/document/9218507/)]
 - <a name="todo"></a> [**2020 | ISLPED**] SparTANN: sparse training accelerator for neural networks with threshold-based sparsification [[paper](https://dl.acm.org/doi/10.1145/3370748.3406554)]
 - <a name="todo"></a> [**2020 | ISSCC**] GANPU: A 135TFLOPS/W Multi-DNN Training Processor for GANs with Speculative Dual-Sparsity Exploitation [[paper](https://ieeexplore.ieee.org/document/9062989/)]
 - <a name="todo"></a> [**2020 | MICRO**] Procrustes: a Dataflow and Accelerator for Sparse Deep Neural Network Training [[paper](https://arxiv.org/abs/2009.10976)]
@@ -133,7 +146,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2020 | ISCAS**] TaxoNN: A Light-Weight Accelerator for Deep Neural Network Training [[paper](https://ieeexplore.ieee.org/document/9181001)]
 - <a name="todo"></a> [**2019 | LSSC**] A 2.6 TOPS/W 16-bit Fixed-Point Convolutional Neural Network Learning Processor in 65nm CMOS [[paper]()]
 - <a name="todo"></a> [**2019 | LSSC**] An Energy-Efficient Deep Reinforcement Learning Accelerator With Transposable PE Array and Experience Compression [[paper](https://ieeexplore.ieee.org/document/8836619/)]
-- - <a name="todo"></a> [**2019 | LSSC**] An Energy-Efficient Sparse Deep-Neural-Network Learning Accelerator with Fine-grained Mixed Precision of FP8-FP16 [[paper](https://ieeexplore.ieee.org/document/8813090/)]
+- <a name="todo"></a> [**2019 | LSSC**] An Energy-Efficient Sparse Deep-Neural-Network Learning Accelerator with Fine-grained Mixed Precision of FP8-FP16 [[paper](https://ieeexplore.ieee.org/document/8813090/)]
 - <a name="todo"></a> [**2019 | TCAS-I**] A Low-Power Deep Neural Network Online Learning Processor for Real-Time Object Tracking Application [[paper](https://ieeexplore.ieee.org/document/8554277/)]
 - <a name="todo"></a> [**2019 | ASPDAC**]  TNPU: an efficient accelerator architecture for training convolutional neural networks[[paper](http://dl.acm.org/citation.cfm?doid=3287624.3287641)]
 - <a name="todo"></a> [**2019 | ASSCC**] A 2.25 TOPS/W Fully-Integrated Deep CNN Learning Processor with On-Chip Training [[paper](https://ieeexplore.ieee.org/document/9056967/)]
@@ -149,6 +162,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - <a name="todo"></a> [**2014 | MICRO**] DaDianNao: A Machine-Learning Supercomputer [[paper](http://ieeexplore.ieee.org/document/7011421/)]
 
 ### **FPGA**
+- <a name="todo"></a> [**2021 | ICS**] Enabling Energy-Efficient DNN Training on Hybrid GPU-FPGA Accelerators [[paper](https://dl.acm.org/doi/10.1145/3447818.3460371)]
 - <a name="todo"></a> [**2020 | TC**] A Neural Network-Based On-Device Learning Anomaly Detector for Edge Devices [[paper](https://ieeexplore.ieee.org/document/9000710?arnumber=9000710)]
 - <a name="todo"></a> [**2020 | ICCAD**] FPGA-based low-batch training accelerator for modern CNNs featuring high bandwidth memory [[paper]()]
 - <a name="todo"></a> [**2020 | IJCAI**] Efficient and Modularized Training on FPGA for Real-time Applications [[paper](https://www.ijcai.org/proceedings/2020/755)]
@@ -180,4 +194,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 
 ### **SNN**
 - <a name="todo"></a> [**2019 | JSSC**] A 65-nm Neuromorphic Image Classification Processor With Energy-Efficient Training Through Direct Spike-Only Feedback [[paper](https://ieeexplore.ieee.org/document/8867974/)]
+
+
+- <a name="todo"></a> [** | **] [[paper]()][[code]()]
 
