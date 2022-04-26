@@ -117,7 +117,13 @@ A collection of research papers on efficient training of DNNs. If you find some 
 
 
 ## **Hardware**
+### **Survey**
+- [**2021 | OJSSC**] An Overview of Energy-Efficient Hardware Accelerators for On-Device Deep-Neural-Network Training
 ### **ASIC**
+- [**2022 | TCAS-I**] TSUNAMI: Triple Sparsity-Aware Ultra Energy-Efficient Neural Network Training Accelerator With Multi-Modal Iterative Pruning
+- [**2022 | HPCA**] FAST: DNN Training Under Variable Precision Block Floating Point with Stochastic Rounding
+- [**2022 | JSSC**] A 7-nm Four-Core Mixed-Precision AI Chip With 26.2-TFLOPS Hybrid-FP8 Training, 104.9-TOPS INT4 Inference, and Workload-Aware Throttling
+- [**2022 | ArXiv**] EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators
 -  [**2021 | JSSC**] HNPU: An Adaptive DNN Training Processor Utilizing Stochastic Dynamic Fixed-Point and Active Bit-Precision Searching [[paper](https://ieeexplore.ieee.org/document/9383824?arnumber=9383824)]
 -  [**2021 | JSSC**] GANPU: An Energy-Efficient Multi-DNN Training Processor for GANs With Speculative Dual-Sparsity Exploitation [[paper](https://ieeexplore.ieee.org/document/9410650/)]
 -  [**2021 | JSSC**] A Neural Network Training Processor With 8-Bit Shared Exponent Bias Floating Point and Multiple-Way Fused Multiply-Add Trees
@@ -126,9 +132,15 @@ A collection of research papers on efficient training of DNNs. If you find some 
 -  [**2021 | ISCA**] RaPiD: AI Accelerator for Ultra-low Precision Training and Inference [[paper](https://ieeexplore.ieee.org/document/9366031)]
 -  [**2021 | ISCA**] Cambricon-Q: A Hybrid Architecture for Efficient Training 
 -  [**2021 | ISCA**] NASA: Accelerating Neural Network Design with a NAS Processor
+-  [**2021 | ISCA**] Ten Lessons From Three Generations Shaped Google’s TPUv4i : Industrial Product
 -  [**2021 | ISCAS**] A 3.6 TOPS/W Hybrid FP-FXP Deep Learning Processor with Outlier Compensation for Image-to-image Application
 -  [**2021 | VLSI**] A 28nm 276.55TFLOPS/W Sparse Deep-Neural-Network Training Processor with Implicit Redundancy Speculation and Batch Normalization Reformulation
 -  [**2021 | COOL**] An Energy-Efficient Deep Neural Network Training Processor with Bit-Slice-Level Reconfigurability and Sparsity Exploitation 
+-  [**2021 | MICRO**] FPRaker: A Processing Element For Accelerating Neural Network Training
+-  [**2021 | MICRO**] Equinox: Training (for Free) on a Custom Inference Accelerator
+-  [**2021 | TC**] A Deep Neural Network Training Architecture with Inference-aware Heterogeneous Data-type
+-  [**2021 |TCAS-I**] Memory Access Optimization for On-Chip Transfer Learning
+-  [**2021 | TCAS-II**] A 64.1mW Accurate Real-time Visual Object Tracking Processor with Spatial Early Stopping on Siamese Network
 -  [**2020 | IEEE Access**] Training Hardware for Binarized Convolutional Neural Network Based on CMOS Invertible Logic [[paper](https://ieeexplore.ieee.org/document/9217452)]
 -  [**2020 | JSSC**] Evolver: A Deep Learning Processor With On-Device Quantization–Voltage–Frequency Tuning [[paper](https://ieeexplore.ieee.org/document/9209075)]
 -  [**2020 | JSSC**] DF-LNPU: A Pipelined Direct Feedback Alignment-Based Deep Neural Network Learning Processor for Fast Online Learning [[paper](https://ieeexplore.ieee.org/document/9307218?arnumber=9307218)]
@@ -166,6 +178,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 -  [**2014 | MICRO**] DaDianNao: A Machine-Learning Supercomputer [[paper](http://ieeexplore.ieee.org/document/7011421/)]
 
 ### **FPGA**
+- [**2022 | TNNLS**] ETA: An Efficient Training Accelerator for DNNs Based on Hardware-Algorithm Co-Optimization
 -  [**2021 | ICS**] Enabling Energy-Efficient DNN Training on Hybrid GPU-FPGA Accelerators [[paper](https://dl.acm.org/doi/10.1145/3447818.3460371)]
 -  [**2020 | TC**] A Neural Network-Based On-Device Learning Anomaly Detector for Edge Devices [[paper](https://ieeexplore.ieee.org/document/9000710?arnumber=9000710)]
 -  [**2020 | ICCAD**] FPGA-based low-batch training accelerator for modern CNNs featuring high bandwidth memory [[paper]()]
@@ -190,15 +203,16 @@ A collection of research papers on efficient training of DNNs. If you find some 
 
 
 ### **PIM**
+-  [**2021 | VLSI**] CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference
 -  [**2021 | TC**] AILC: Accelerate On-chip Incremental Learning with Compute-in-Memory Technology [[paper](https://ieeexplore.ieee.org/document/9329153?arnumber=9329153)]
 -  [**2021 | TC**] PANTHER: A Programmable Architecture for Neural Network Training Harnessing Energy-efficient ReRAM [[paper](http://arxiv.org/abs/1912.11516)]
 -  [**2019 | TC**] A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Datasets [[paper](https://ieeexplore.ieee.org/document/8502059/)]
 -  [**2018 | TCAD**] DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks [[paper](https://ieeexplore.ieee.org/document/8418347/)]
 -  [**2017 | HPCA**] PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning [[paper](http://ieeexplore.ieee.org/document/7920854/)]
-
+<!-- 
 ### **SNN**
 -  [**2019 | JSSC**] A 65-nm Neuromorphic Image Classification Processor With Energy-Efficient Training Through Direct Spike-Only Feedback [[paper](https://ieeexplore.ieee.org/document/8867974/)]
 
 
--  [** | **] [[paper]()][[code]()]
+-  [** | **] [[paper]()][[code]()] -->
 
