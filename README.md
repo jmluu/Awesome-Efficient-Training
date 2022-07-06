@@ -121,6 +121,7 @@ A collection of research papers on efficient training of DNNs. If you find some 
 - [**2021 | OJSSC**] An Overview of Energy-Efficient Hardware Accelerators for On-Device Deep-Neural-Network Training
 ### **ASIC**
 - [**2022 | ISCA**] Anticipating and Eliminating Redundant Computations in Accelerated Sparse Training
+- [**2022 | TCAS-I**] SWPU: A 126.04 TFLOPS/W Edge-Device Sparse DNN Training Processor With Dynamic Sub-Structured Weight Pruning
 - [**2022 | TCAS-I**] TSUNAMI: Triple Sparsity-Aware Ultra Energy-Efficient Neural Network Training Accelerator With Multi-Modal Iterative Pruning
 - [**2022 | HPCA**] FAST: DNN Training Under Variable Precision Block Floating Point with Stochastic Rounding
 - [**2022 | JSSC**] A 7-nm Four-Core Mixed-Precision AI Chip With 26.2-TFLOPS Hybrid-FP8 Training, 104.9-TOPS INT4 Inference, and Workload-Aware Throttling
